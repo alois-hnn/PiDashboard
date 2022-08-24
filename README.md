@@ -1,7 +1,7 @@
 # sk1306
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/84097316/186389849-2aac18c2-096a-4cdf-b5be-175f723f6c27.JPG")
+<img width="300" src="https://user-images.githubusercontent.com/84097316/186389849-2aac18c2-096a-4cdf-b5be-175f723f6c27.JPG">
 </div>
 
 ## Ressources
